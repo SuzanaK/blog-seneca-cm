@@ -1,25 +1,28 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated,
-  time-consuming ordeal, but once you get used to the process, it becomes a
-  soothing ritual that's worth the effort every time.
+title: EDITO
+date: 2025-01-04T15:04:10.000Z
+description: L’urgence d’une stratégie nationale de protection du consommateur
 image: blog-chemex.jpg
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+# EDITO
+## L’urgence d’une stratégie nationale de protection du consommateur
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+La forte modernisation des techniques de production a entraîné une révolution qui a touché tous les secteurs de production. Ce qui a en effet provoqué d’énormes mutations qui ont débouché sur une offre de biens et services très diversifiés pour les consommateurs d’aujourd’hui.
 
-## The little secrets of Chemex brewing
+Sous l’effet de l’innovation technologique, du développement de l’industrie et de la concurrence sur le marché, les usagers jouissent aujourd’hui de plus grandes opportunités commerciales, qui en principe devraient améliorer significativement et durablement le vécu des consommateurs d’ici et d’ailleurs. Mais hélas, les consommateurs n’arrivent pas toujours à tirer pleinement parti des avantages offerts par toutes ces évolutions.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Le Cameroun est un exemple par excellence. D’année en année, il n’échappe pas à la triste réalité d’un contexte économique national et international peu reluisant, avec des conséquences néfastes sur l’économie et le panier de la ménagère. La tendance inflationniste des prix sur le marché national, évaluée selon les experts à **6,7 %**, a rendu difficile le quotidien de plusieurs consommateurs camerounais qui ont du mal à subvenir à leurs besoins alimentaires. Tous les biens de consommation et services ont connu une hausse des prix, alors même que le pouvoir d’achat des consommateurs est resté très bas.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+L’accès aux besoins sociaux de base tels que **l’eau** et **l’électricité** n’est pas un acquis pour de nombreux consommateurs. La pénurie de certains produits pétroliers, la piètre qualité et les prix élevés des services de télécommunications, le *service minimum bancaire garanti* – objet d’une réglementation nationale et sous-régionale – est allègrement foulé au pied par les établissements bancaires et financiers. L’insalubrité, avec ses corollaires sur l’environnement et la santé des consommateurs, constitue un ensemble de maux qui accablent leur quotidien.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+Malgré l’armada de mesures prises par les pouvoirs publics, les régulateurs et les actions menées par les associations de défense des droits et intérêts des consommateurs pour assurer leur protection, le consommateur reste malheureusement très vulnérable, voire abandonné.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+D’où l’importance de mener une réflexion **profonde, cohérente et concertée** par tous les acteurs, afin de prendre en compte de manière exhaustive tous les principes de base et fondamentaux, pour l’épanouissement du consommateur au Cameroun. Cela sera facilité par l’adoption d’une **stratégie nationale de protection des consommateurs**.
+
+Cette **39ᵉ édition** de la *Journée mondiale des droits des consommateurs* nous offre cette opportunité.
+
+---
+
+**Marie Hélène EBIELINE**
+*Coordinatrice du REDCO*
